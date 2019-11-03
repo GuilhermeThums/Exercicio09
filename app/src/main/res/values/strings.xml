@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Exercicio 09</string>
+    <string name="nome">Nome</string>
+    <string name="usuario">Usuário (e-mail)</string>
+    <string name="senha">Senha</string>
+    <string name="contraSenha">Confirme sua senha</string>
+    <string name="enviar">Enviar</string>
+
+
+</resources>
